@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/testview"
+    android:layout_width="240dp"
+    android:layout_height="200dp"
+    android:background="@drawable/rounded_bg"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    android:orientation="vertical"
+    android:padding="4dp">
+
+    <TextView
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text=""
+        android:textAlignment="center" />
+
+
+    <!--<TextView
+        android:id="@+id/details"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="TextView"/>
+
+    <SearchView
+        android:layout_width="match_parent"
+        android:layout_height="36dp" />
+   -->
+
+
+    <!--<TextView
+        android:id="@+id/wikiworks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="2dp"
+        android:text="Tap for more Information"
+        android:textAlignment="center" />
+-->
+
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Google Search" />
+
+</LinearLayout>
