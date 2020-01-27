@@ -1,0 +1,12 @@
+17/06/2019
+  -Making major changes to the projects; Rewriting the codebase in Dart and Flutter for deployment on Android as well as IOS devices. 
+
+16/04/2019
+  -Permissible storage limit exceeded on Github. Unable to upload AR assets as well as tflite model of retrained MobileNetV2. 
+ 
+11/04/2019
+  -Completed two major modules of the application. spectAR now fully supports -
+                                                                            1. Object detection and identification
+                                                                            2. AR object formation in ARFragment activity to fetch current additional information about the products from Flipkart.com
+
+                                                                           
