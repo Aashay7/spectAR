@@ -1,3 +1,6 @@
+27-01-2020
+  -Restarting the project with retraining of MobilenetV3(minor accuracy increment over v2, but faster result time.) 
+
 30/11/2019
   -Updated codebase -Rectified TFLITE version error with Tensorflow2.0
   -Reuploaded the codebase.
